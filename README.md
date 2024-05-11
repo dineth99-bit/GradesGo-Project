@@ -21,5 +21,6 @@ In the realm of education, the transition to Grade 1 marks a significant milesto
 
 - Moreover, we ensured robust authentication and authorization handling through the implementation of JWT
 
+![Main block diagram of the desired architecture](https://github.com/dineth99-bit/16-Bit-RISC-Processor/blob/main/main_block%20Diagram.jpg)
 
 
