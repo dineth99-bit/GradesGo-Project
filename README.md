@@ -23,14 +23,3 @@ In the realm of education, the transition to Grade 1 marks a significant milesto
 
 
 
-
-
-
-
-
-
-
-
-![image](https://github.com/dineth99-bit/GradesGo-Project/assets/102501477/d7fe13ce-a6b9-4f62-988e-a984a6e0cd3e)
-
-
