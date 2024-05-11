@@ -21,6 +21,4 @@ In the realm of education, the transition to Grade 1 marks a significant milesto
 
 - Moreover, we ensured robust authentication and authorization handling through the implementation of JWT
 
-![Map Based Radius Assesment]((https://github.com/dineth99-bit/GradesGo-Project/blob/master/Frontend%20of%20the%20website.png))
-
-
+![alt text]([http://url/to/img.png](https://github.com/dineth99-bit/GradesGo-Project/blob/master/Frontend%20of%20the%20website.png))
