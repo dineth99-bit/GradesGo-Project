@@ -1,0 +1,7 @@
+## Overview
+"GradesGO" a comprehensive approach for the grade 1 admission mark calculation process in government schools, aiming to streamline operations, reduce paperwork, and enhance transparency. Initially tailored for the Galle district due to the absence of a digitalized solution, 
+our platform seeks to address the island-wide need for a reliable, robust system.To achieve this, we developed a user-friendly website accessible to the public, leveraging latest MERN stack. We prioritized accurate proximity calculations to schools, utilizing Google 
+Maps API for precise distance measurement. Additionally, we compiled a comprehensive digital database specific to the Galle district, containing school coordinates.Our platform generates printable PDF documents reflecting final marks, aligned with 
+government circulars. Each document includes a unique hash for verification via our platform, ensuring accuracy and transparency. Feedback from educators and parents in Galle district, collected through administrative channels, highlights a 98% satisfaction rate, validating our 
+platform's success.The feedback mechanism, involving individuals with over 90% computer literacy, proves efficient and cost-effective, empowering parents in their decision-making process. Despite current limitations, our future roadmap includes expanding island-wide and integrating with 
+existing educational systems, fostering greater connectivity and efficiency.
